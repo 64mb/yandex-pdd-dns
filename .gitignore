@@ -1,0 +1,9 @@
+/.vscode
+/.idea
+/.cache
+/.nyc_output
+/.directory
+/node_modules
+
+.env
+.env.temp
